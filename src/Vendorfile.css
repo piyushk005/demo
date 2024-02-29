@@ -1,0 +1,16 @@
+/* VendorListing.css */
+
+/* ... (Existing styles) */
+
+/* Table head (heading of each column) styles */
+.TableHead {
+    background: #E6F1F8;
+    border: 1px solid #C1E7FF;
+    border-radius: 12px 12px 0px 0px;
+  }
+  
+  /* Table cell (heading of each column) styles */
+  .TableCell {
+    padding: 12px;
+  }
+  
